@@ -5,8 +5,8 @@
 %global crate ivf
 
 Name:           rust-%{crate}
-Version:        0.1.0
-Release:        2%{?dist}
+Version:        0.1.4
+Release:        1%{?dist}
 Summary:        Simple ivf muxer
 
 # Upstream license specification: BSD-2-Clause
